@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36376
     wikipedia: http://www.gutenberg.org/browse/authors/w#a37000
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45452#Connie-Carl-at-Rainbow-Ranch
 gutenberg_issued: '2014-04-22'
 gutenberg_type: Text
 identifiers:
