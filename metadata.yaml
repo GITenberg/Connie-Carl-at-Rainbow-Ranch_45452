@@ -1,0 +1,36 @@
+_repo: Connie-Carl-at-Rainbow-Ranch_45452
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45452-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Clark, Joan
+    birthdate: 1905
+    deathdate: 2002
+    gutenberg_agent_id: '36376'
+    url: http://www.gutenberg.org/2009/agents/36376
+    wikipedia: http://www.gutenberg.org/browse/authors/w#a37000
+description: ''
+gutenberg_issued: '2014-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45452'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ranch life -- Juvenile fiction'
+- !lcsh 'Horses -- Juvenile fiction'
+- !lcsh 'Women ranchers -- Juvenile fiction'
+- !lcsh 'Dude ranches -- Juvenile fiction'
+- !lcsh 'Cliff-dwellings -- New Mexico -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Rodeos -- Juvenile fiction'
+- !lcsh 'Thieves -- Juvenile fiction'
+- !lcsh 'Kivas -- New Mexico -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Bildungsromans'
+title: Connie Carl at Rainbow Ranch
+url: http://www.gutenberg.org/ebooks/45452
